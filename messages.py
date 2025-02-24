@@ -1,5 +1,5 @@
 # pip import methods
-from evos_full_bot import methods
+import methods
 from register import check, check_data_decorator
 from database import Database
 import globals
